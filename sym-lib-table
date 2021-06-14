@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name z1_rtc_v3)(type Legacy)(uri /home/zak/projects/z1_rtc_v3/z_1_rtc_v3.lib)(options "")(descr ""))
+)
